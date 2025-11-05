@@ -1,4 +1,3 @@
-## AB_Testing_Facebook
 ## Measurament Problems
 
 ## A/B Testing on Facebook 🚀
